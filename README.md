@@ -110,7 +110,7 @@ In my free time, i try to give back to the world by releasing open-source projec
 
 ### GPG Key: [Click Here](https://solutioncoder.com/pgp.txt)
 
-### Resume/CV: [Click Here](https://solutioncoder.com/documents/resume-of-anil.pdf)a
+### Resume/CV: [Click Here](https://solutioncoder.com/documents/resume-of-anil.pdf)
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/anildewani)
 
