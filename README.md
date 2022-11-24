@@ -113,47 +113,30 @@ In my free time, i try to give back to the world by releasing open-source projec
 
 
   
-Latest blog posts:
+### Latest blog posts:
 
+- [Top Ways to Secure Linux Servers](https://solutioncoder.com/blog/ways-to-secure-linux-server/)
+- [Tools which i self host for privacy reasons](https://solutioncoder.com/blog/top-tools-to-self-host-on-your-server/)
+- [My Personal Code Development Philosophy](https://solutioncoder.com/blog/my-coding-philosophy/)
 
 My projects:
 
 
-My GPG Key: keybase.io link
+GPG Key: [Click Here](https://solutioncoder.com/pgp.txt)
 
-website, linkedin, stackoverflow, researhgate,
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/anildewani)
 
-Thigns i code with:
+Connect with me:
 
-buy me a coffee link
+- Website
+- Linkedin
+- Stackoverflow
+
+
+Resume Link
 
 github stats
 
-currently_learning:
-Personal hobbies:
-
 visitors batch
 
-ask me anything with discussion page link
-
-leetcode:
-code tme badge
-  resume link
-
-currently working on:
-
-favourite quote:
-
-Arsenal:
-
-open source contirubtions:
-  
-  waka time stats
-
-![Anil Dewani](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
-<br>
-
-<!---
-solution-coder/solution-coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+waka time badge
