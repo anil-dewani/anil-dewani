@@ -7,9 +7,10 @@ I'm an tech-enthusiast with a sound grip on very diverse set of technical toolse
 In my free time, i try to give back to the world by releasing open-source projects.
 
 
--  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Machine Learning & Natural Language Processing**. <img width="15%" align="right" alt="Github Image" src="https://github.com/SP-XD/SP-XD/blob/main/images/linux_rounded.gif?raw=true" /><br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I totally admire exploring **GNU/Linux**. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me anything about DevOps, web development & Gnu/Linux. <br>
+- 🤖 &nbsp; I’m currently learning **Machine Learning & Natural Language Processing**. 
+- 🌈 &nbsp; I totally admire **GNU/Linux** and **FOSS** Softwares <br>
+- 📢 &nbsp; Ask me anything about DevOps, web development & Linux. <br>
+- ⚡️ &nbsp; Read more about my projects at [solutioncoder.com](https://solutioncoder.com/)
 
 ## My Complete Tech Stack:
 
@@ -119,24 +120,19 @@ In my free time, i try to give back to the world by releasing open-source projec
 - [Tools which i self host for privacy reasons](https://solutioncoder.com/blog/top-tools-to-self-host-on-your-server/)
 - [My Personal Code Development Philosophy](https://solutioncoder.com/blog/my-coding-philosophy/)
 
-My projects:
 
+#### GPG Key: [Click Here](https://solutioncoder.com/pgp.txt)
 
-GPG Key: [Click Here](https://solutioncoder.com/pgp.txt)
+#### Resume/CV: [Click Here](https://solutioncoder.com/documents/resume-of-anil.pdf)a
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/anildewani)
 
-Connect with me:
+#### Connect with me:
 
-- Website
-- Linkedin
-- Stackoverflow
+[![Email](https://i.imgur.com/LvzAalc.png)](mail:anildewani4u@gmail.com)
+[![Linkedin](https://i.imgur.com/O8ONzW7.png)](https://www.linkedin.com/in/anil-d-15729a1b9/)
+[![Telegram](https://i.imgur.com/6TcSeAY.png)](http://t.me/solutioncoder)
+[![Instagram](https://i.imgur.com/MxH4Zfp.png)](http://instagram.com/madbytes)
 
 
-Resume Link
-
-github stats
-
-visitors batch
-
-waka time badge
+![Anil's GitHub stats](https://github-readme-stats.vercel.app/api?username=solution-coder&show_icons=true&theme=buefy)
