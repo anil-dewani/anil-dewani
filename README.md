@@ -9,19 +9,19 @@ In my free time, i try to give back to the world by releasing open-source projec
 
 - 🤖 &nbsp; I’m currently learning **Machine Learning & Natural Language Processing**. 
 - 🌈 &nbsp; I totally admire **GNU/Linux** and **FOSS** Softwares <br>
-- 📢 &nbsp; Ask me anything about DevOps, web development & Linux. <br>
-- ⚡️ &nbsp; Read more about my projects at [solutioncoder.com](https://solutioncoder.com/)
+- 📢 &nbsp; Ask me anything about **DevOps**, **web development** & **Linux**. <br>
+- ⚡️ &nbsp; Read more about my projects at **[solutioncoder.com](https://solutioncoder.com/)**
 
 ## My Complete Tech Stack:
 
-#### - Programming Languages
-  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+#### - Web Development
+
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-  
+  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+  ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+  ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+
   
   #### - DevOps 
   ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -34,12 +34,11 @@ In my free time, i try to give back to the world by releasing open-source projec
   
   
 
-#### - Web Development
+  
+#### - Mobile App Development
 
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-  ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
-  ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+  
 
 #### - Database Systems
   
@@ -58,8 +57,6 @@ In my free time, i try to give back to the world by releasing open-source projec
   ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
   
   
-
-  
 #### - Servers
   
   ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
@@ -73,26 +70,11 @@ In my free time, i try to give back to the world by releasing open-source projec
   ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
   ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
   
-  #### - Frontend Development
-  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
-  ![Hugo](https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo)
-  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  
-  
-#### - Embedded Systems
-  
-  ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
   
   
 
   
 
-  
-#### - Mobile App Development
-
-  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-  
 
 #### - IDEs
   ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -108,6 +90,11 @@ In my free time, i try to give back to the world by releasing open-source projec
   ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
   ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
+#### - Embedded Systems
+  
+  ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+  
+  
 #### - Extra Tools
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![Dependabot](https://img.shields.io/badge/dependabot-025E8C?style=for-the-badge&logo=dependabot&logoColor=white)
@@ -121,13 +108,13 @@ In my free time, i try to give back to the world by releasing open-source projec
 - [My Personal Code Development Philosophy](https://solutioncoder.com/blog/my-coding-philosophy/)
 
 
-#### GPG Key: [Click Here](https://solutioncoder.com/pgp.txt)
+### GPG Key: [Click Here](https://solutioncoder.com/pgp.txt)
 
-#### Resume/CV: [Click Here](https://solutioncoder.com/documents/resume-of-anil.pdf)a
+### Resume/CV: [Click Here](https://solutioncoder.com/documents/resume-of-anil.pdf)a
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/anildewani)
 
-#### Connect with me:
+### Connect with me:
 
 [![Email](https://i.imgur.com/LvzAalc.png)](mail:anildewani4u@gmail.com)
 [![Linkedin](https://i.imgur.com/O8ONzW7.png)](https://www.linkedin.com/in/anil-d-15729a1b9/)
