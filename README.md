@@ -12,8 +12,28 @@ In my free time, i try to give back to the world by releasing open-source projec
 - 📢 &nbsp; Ask me anything about **DevOps**, **web development** & **Linux**. <br>
 - ⚡️ &nbsp; Read more about my projects at **[solutioncoder.com](https://solutioncoder.com/)**
 
+
+## Open Source Projects:
+
+- [Firefly Import Helpers](https://github.com/solution-coder/firefly-import-helper) - An extended transactions importer for the [Firefly III](https://www.firefly-iii.org/) Personal Finance manager software. Dedicated modules for top banks of india, to import bank account and credit card transactions.
+- [Unix Server Backup](https://github.com/solution-coder/unix-server-backup) - An python script focused on doing a detailed daily snapchat of linux servers and automatically uploading them to s3 enabled storage servers. 
+- [SSH Monitoring Web UI](https://github.com/solution-coder/ssh-logging-web-ui) - Django based web UI application which lists down all the attempts made to login to your server via SSH. Useful to do security audits and blocking out crawler bots doing bruteforce attacks on the server. 
+- [Idea Management Mobile App](https://github.com/solution-coder/ssh-logging-web-ui) - An Flutter based mobile application which helps to quick add new ideas flowing through the mind, and manage execution of each by shortlisting them into various categories of operation.
+
+### Latest blog posts:
+
+- [Top Ways to Secure Linux Servers](https://solutioncoder.com/blog/ways-to-secure-linux-server/)
+- [Tools which i self host for privacy reasons](https://solutioncoder.com/blog/top-tools-to-self-host-on-your-server/)
+- [My Personal Code Development Philosophy](https://solutioncoder.com/blog/my-coding-philosophy/)
+
+
+### GPG Key: [Click Here](https://solutioncoder.com/pgp.txt)
+
+### Resume: [Click Here](https://solutioncoder.com/documents/resume-of-anil.pdf)
+
 ## My Complete Tech Stack:
 
+I'm well versed with multiple technology frameworks spanning across multiple domains. A jack of all the trades kinda guy! Below is my attempt to list down all the tech stack i can start working/tinkering instantly!
 
 #### - Web Development
 
@@ -109,16 +129,7 @@ In my free time, i try to give back to the world by releasing open-source projec
 
 
   
-### Latest blog posts:
 
-- [Top Ways to Secure Linux Servers](https://solutioncoder.com/blog/ways-to-secure-linux-server/)
-- [Tools which i self host for privacy reasons](https://solutioncoder.com/blog/top-tools-to-self-host-on-your-server/)
-- [My Personal Code Development Philosophy](https://solutioncoder.com/blog/my-coding-philosophy/)
-
-
-### GPG Key: [Click Here](https://solutioncoder.com/pgp.txt)
-
-### Resume: [Click Here](https://solutioncoder.com/documents/resume-of-anil.pdf)
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/anildewani)
 
