@@ -141,18 +141,16 @@ I'm well versed with multiple technology frameworks spanning across multiple dom
 
 ## My Daily Reads:
 
-- [Hacker News](https://news.ycombinator.com/)
-- [Product Hunt](https://www.producthunt.com/)
-- [Lobsters](https://lobste.rs/)
-- [TechontheEdge](https://www.techontheedge.com/)
-- [TechURLS](https://techurls.com/)
-- [DevURLS](https://devurls.com/)
-- [SciURLS](https://sciurls.com/)
-- [FinURLS](https://finurls.com/)
-- [TuxURLS](https://tuxurls.com/)
-- [Volv News](https://volvmedia.com/)
-
-![Anil's GitHub stats](https://github-readme-stats.vercel.app/api?username=solution-coder&show_icons=true&theme=buefy)
+- [Hacker News](https://news.ycombinator.com/) - Top Trending Tech News of the day
+- [Product Hunt](https://www.producthunt.com/) - Top Trending Tech Products of the day
+- [Lobsters](https://lobste.rs/) - To Find Geekish articles catching eyes of the nerds!
+- [TechontheEdge](https://www.techontheedge.com/) - Staying updated with everything related to A.I, M.L and N.L.P
+- [Volv News](https://volvmedia.com/) - Quickly scroll through international top news
+- [TechURLS](https://techurls.com/) - Aggregator site for all popular tech news sources
+- [TuxURLS](https://tuxurls.com/) - Aggregator site for all popular Linux news sources
+- [DevURLS](https://devurls.com/) - Aggregator site for all popular Developer news sources
+- [SciURLS](https://sciurls.com/) - Aggregator site for all popular Scientific Research sources
+- [FinURLS](https://finurls.com/) - Aggregator site for all popular Financial Management sources
 
 
 ### Like my contributions?
