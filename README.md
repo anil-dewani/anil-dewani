@@ -139,7 +139,7 @@ I'm well versed with multiple technology frameworks spanning across multiple dom
 [![Instagram](https://i.imgur.com/MxH4Zfp.png)](http://instagram.com/madbytes)
 
 
-![Anil's GitHub stats](https://github-readme-stats.vercel.app/api?username=solution-coder&show_icons=true&theme=buefy)
+[![Anil's GitHub stats](https://github-readme-stats.vercel.app/api?username=solution-coder&show_icons=true&theme=buefy)
 
 ### Like my contributions?
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/anildewani)
