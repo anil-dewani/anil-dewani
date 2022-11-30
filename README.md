@@ -33,7 +33,7 @@ In my free time, i try to give back to the world by releasing open-source projec
 
 ## My Complete Tech Stack:
 
-I'm well versed with multiple technology frameworks spanning across multiple domains. A jack of all the trades kinda guy! Below is my attempt to list down all the tech stack i can start working/tinkering instantly!
+I'm well versed with multiple technology frameworks spanning across multiple domains. A jack of all the trades kinda guy! Below is my attempt to list down all the tech stack i can start working/tinkering instantly! Ping me with your interesting ideas and lets see if we can flow together ;)
 
 #### - Web Development
 
@@ -129,10 +129,6 @@ I'm well versed with multiple technology frameworks spanning across multiple dom
 
 
   
-
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/anildewani)
-
 ### Connect with me:
 
 [![Email](https://i.imgur.com/LvzAalc.png)](mail:anildewani4u@gmail.com)
@@ -142,3 +138,6 @@ I'm well versed with multiple technology frameworks spanning across multiple dom
 
 
 ![Anil's GitHub stats](https://github-readme-stats.vercel.app/api?username=solution-coder&show_icons=true&theme=buefy)
+
+### Like my contributions?
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/anildewani)
