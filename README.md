@@ -139,5 +139,21 @@ I'm well versed with multiple technology frameworks spanning across multiple dom
 [![Instagram](https://i.imgur.com/MxH4Zfp.png)](http://instagram.com/madbytes)
 
 
+## My Daily Reads:
+
+- [Hacker News](https://news.ycombinator.com/)
+- [Product Hunt](https://www.producthunt.com/)
+- [Lobsters](https://lobste.rs/)
+- [TechontheEdge](https://www.techontheedge.com/)
+- [TechURLS](https://techurls.com/)
+- [DevURLS](https://devurls.com/)
+- [SciURLS](https://sciurls.com/)
+- [FinURLS](https://finurls.com/)
+- [TuxURLS](https://tuxurls.com/)
+- [Volv News](https://volvmedia.com/)
+
+![Anil's GitHub stats](https://github-readme-stats.vercel.app/api?username=solution-coder&show_icons=true&theme=buefy)
+
+
 ### Like my contributions?
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/anildewani)
