@@ -27,9 +27,11 @@ In my free time, i try to give back to the world by releasing open-source projec
 - [My Personal Code Development Philosophy](https://solutioncoder.com/blog/my-coding-philosophy/)
 
 
-### GPG Key: [Click Here](https://solutioncoder.com/pgp.txt)
+### GPG Encryption Key: [Public Key](https://solutioncoder.com/pgp.txt)
 
-### Resume: [Click Here](https://solutioncoder.com/documents/resume-of-anil.pdf)
+### Resume: [Download PDF](https://solutioncoder.com/documents/resume-of-anil.pdf)
+
+### RSS Feeds I Follow: [Download OPML File](https://solutioncoder.com/feeds.opml)
 
 ## My Complete Tech Stack:
 
