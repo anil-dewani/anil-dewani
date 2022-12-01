@@ -15,24 +15,24 @@ In my free time, i try to give back to the world by releasing open-source projec
 
 ## Open Source Projects:
 
-- [Firefly Import Helpers](https://github.com/solution-coder/firefly-import-helper) - An extended transactions importer for the [Firefly III](https://www.firefly-iii.org/) Personal Finance manager software. Dedicated modules for top banks of india, to import bank account and credit card transactions.
-- [Unix Server Backup](https://github.com/solution-coder/unix-server-backup) - An python script focused on doing a detailed daily snapchat of linux servers and automatically uploading them to s3 enabled storage servers. 
-- [SSH Monitoring Web UI](https://github.com/solution-coder/ssh-logging-web-ui) - Django based web UI application which lists down all the attempts made to login to your server via SSH. Useful to do security audits and blocking out crawler bots doing bruteforce attacks on the server. 
-- [Idea Management Mobile App](https://github.com/solution-coder/ssh-logging-web-ui) - An Flutter based mobile application which helps to quick add new ideas flowing through the mind, and manage execution of each by shortlisting them into various categories of operation.
+- [Firefly Import Helpers](https://github.com/anil-dewani/firefly-import-helper) - An extended transactions importer for the [Firefly III](https://www.firefly-iii.org/) Personal Finance manager software. Dedicated modules for top banks of india, to import bank account and credit card transactions.
+- [Unix Server Backup](https://github.com/anil-dewani/unix-server-backup) - An python script focused on doing a detailed daily snapchat of linux servers and automatically uploading them to s3 enabled storage servers. 
+- [SSH Monitoring Web UI](https://github.com/anil-dewani/ssh-logging-web-ui) - Django based web UI application which lists down all the attempts made to login to your server via SSH. Useful to do security audits and blocking out crawler bots doing bruteforce attacks on the server. 
+- [Idea Management Mobile App](https://github.com/anil-dewani/Ideas-Management) - An Flutter based mobile application which helps to quick add new ideas flowing through the mind, and manage execution of each by shortlisting them into various categories of operation.
 - [AnilDewani.com](https://anildewani.com/) - Personal website coded using the JAMStack Approach using hugo framework, deployed using cloudflare workers on their worldwide CDN for lowest latency and fastest cache.
 
 ### Latest blog posts:
 
-- [Top Ways to Secure Linux Servers](https://solutioncoder.com/blog/ways-to-secure-linux-server/)
-- [Tools which i self host for privacy reasons](https://solutioncoder.com/blog/top-tools-to-self-host-on-your-server/)
-- [My Personal Code Development Philosophy](https://solutioncoder.com/blog/my-coding-philosophy/)
+- [Top Ways to Secure Linux Servers](https://anildewani.com/blog/ways-to-secure-linux-server/)
+- [Tools which i self host for privacy reasons](https://anildewani.com/blog/top-tools-to-self-host-on-your-server/)
+- [My Personal Code Development Philosophy](https://anildewani.com/blog/my-coding-philosophy/)
 
 
-#### GPG Encryption Key: [Public Key](https://solutioncoder.com/pgp.txt)
+#### GPG Encryption Key: [Public Key](https://anildewani.com/pgp.txt)
 
-#### Resume: [Download PDF](https://solutioncoder.com/documents/resume-of-anil.pdf)
+#### Resume: [Download PDF](https://anildewani.com/documents/resume-of-anil.pdf)
 
-#### RSS Feeds I Follow: [Download OPML File](https://solutioncoder.com/feeds.opml)
+#### RSS Feeds I Follow: [Download OPML File](https://anildewani.com/feeds.opml)
 
 ## My Complete Tech Stack:
 
