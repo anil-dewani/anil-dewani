@@ -20,6 +20,7 @@ In my free time, i try to give back to the world by releasing open-source projec
 - [SSH Monitoring Web UI](https://github.com/solution-coder/ssh-logging-web-ui) - Django based web UI application which lists down all the attempts made to login to your server via SSH. Useful to do security audits and blocking out crawler bots doing bruteforce attacks on the server. 
 - [Idea Management Mobile App](https://github.com/solution-coder/ssh-logging-web-ui) - An Flutter based mobile application which helps to quick add new ideas flowing through the mind, and manage execution of each by shortlisting them into various categories of operation.
 
+
 ### Latest blog posts:
 
 - [Top Ways to Secure Linux Servers](https://solutioncoder.com/blog/ways-to-secure-linux-server/)
@@ -143,6 +144,7 @@ I'm well versed with multiple technology frameworks spanning across multiple dom
 
 - [Hacker News](https://news.ycombinator.com/) - Top Trending Tech News of the day
 - [Product Hunt](https://www.producthunt.com/) - Top Trending Tech Products of the day
+- [Github Trends](https://github.com/trending/) - Daily, weekly and monthly trending repos on github
 - [Lobsters](https://lobste.rs/) - To Find Geekish articles catching eyes of the nerds!
 - [TechontheEdge](https://www.techontheedge.com/) - Staying updated with everything related to A.I, M.L and N.L.P
 - [Volv News](https://volvmedia.com/) - Quickly scroll through international top news
