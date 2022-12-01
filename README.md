@@ -10,7 +10,7 @@ In my free time, i try to give back to the world by releasing open-source projec
 - 🤖 &nbsp; I’m currently learning **Machine Learning & Natural Language Processing**. 
 - 🌈 &nbsp; I totally admire **GNU/Linux** and **FOSS** Softwares <br>
 - 📢 &nbsp; Ask me anything about **DevOps**, **web development** & **Linux**. <br>
-- ⚡️ &nbsp; Read more about my projects at **[solutioncoder.com](https://solutioncoder.com/)**
+- ⚡️ &nbsp; Read more about my projects at **[anildewani.com](https://anildewani.com/)**
 
 
 ## Open Source Projects:
