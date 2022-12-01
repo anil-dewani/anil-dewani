@@ -19,7 +19,7 @@ In my free time, i try to give back to the world by releasing open-source projec
 - [Unix Server Backup](https://github.com/solution-coder/unix-server-backup) - An python script focused on doing a detailed daily snapchat of linux servers and automatically uploading them to s3 enabled storage servers. 
 - [SSH Monitoring Web UI](https://github.com/solution-coder/ssh-logging-web-ui) - Django based web UI application which lists down all the attempts made to login to your server via SSH. Useful to do security audits and blocking out crawler bots doing bruteforce attacks on the server. 
 - [Idea Management Mobile App](https://github.com/solution-coder/ssh-logging-web-ui) - An Flutter based mobile application which helps to quick add new ideas flowing through the mind, and manage execution of each by shortlisting them into various categories of operation.
-
+- [AnilDewani.com](https://anildewani.com/) - Personal website coded using the JAMStack Approach using hugo framework, deployed using cloudflare workers on their worldwide CDN for lowest latency and fastest cache.
 
 ### Latest blog posts:
 
@@ -28,11 +28,11 @@ In my free time, i try to give back to the world by releasing open-source projec
 - [My Personal Code Development Philosophy](https://solutioncoder.com/blog/my-coding-philosophy/)
 
 
-### GPG Encryption Key: [Public Key](https://solutioncoder.com/pgp.txt)
+#### GPG Encryption Key: [Public Key](https://solutioncoder.com/pgp.txt)
 
-### Resume: [Download PDF](https://solutioncoder.com/documents/resume-of-anil.pdf)
+#### Resume: [Download PDF](https://solutioncoder.com/documents/resume-of-anil.pdf)
 
-### RSS Feeds I Follow: [Download OPML File](https://solutioncoder.com/feeds.opml)
+#### RSS Feeds I Follow: [Download OPML File](https://solutioncoder.com/feeds.opml)
 
 ## My Complete Tech Stack:
 
