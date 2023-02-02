@@ -4,7 +4,7 @@
 
 I'm an tech-enthusiast with a sound grip on very diverse set of technical toolsets which help me manifest ideas into functional and reliable tech systems.
 
-In my free time, i try to give back to the world by releasing open-source projects.
+In my free time, I try to give back to the world by releasing open-source projects.
 
 
 - 🤖 &nbsp; I’m currently learning **Machine Learning & Natural Language Processing**. 
@@ -24,7 +24,7 @@ In my free time, i try to give back to the world by releasing open-source projec
 ### Latest blog posts:
 
 - [Top Ways to Secure Linux Servers](https://anildewani.com/blog/ways-to-secure-linux-server/)
-- [Tools which i self host for privacy reasons](https://anildewani.com/blog/top-tools-to-self-host-on-your-server/)
+- [Tools which I self host for privacy reasons](https://anildewani.com/blog/top-tools-to-self-host-on-your-server/)
 - [My Personal Code Development Philosophy](https://anildewani.com/blog/my-coding-philosophy/)
 
 
@@ -36,7 +36,7 @@ In my free time, i try to give back to the world by releasing open-source projec
 
 ## My Complete Tech Stack:
 
-I'm well versed with multiple technology frameworks spanning across multiple domains. A jack of all the trades kinda guy! Below is my attempt to list down all the tech stack i can start working/tinkering instantly! Ping me with your interesting ideas and lets see if we can flow together ;)
+I'm well versed with multiple technology frameworks spanning across multiple domains. A jack of all the trades kinda guy! Below is my attempt to list down all the tech stack I can start working/tinkering instantly! Ping me with your interesting ideas and lets see if we can flow together ;)
 
 #### - Web Development
 
