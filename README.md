@@ -24,19 +24,16 @@ In my free time, I try to give back to the world by releasing open-source projec
 ### Latest blog posts:
 
 - [Top Ways to Secure Linux Servers](https://anildewani.com/blog/ways-to-secure-linux-server/)
-- [Tools which I self host for privacy reasons](https://anildewani.com/blog/top-tools-to-self-host-on-your-server/)
 - [My Personal Code Development Philosophy](https://anildewani.com/blog/my-coding-philosophy/)
 
 
 #### GPG Encryption Key: [Public Key](https://anildewani.com/pgp.txt)
 
-#### Resume: [Download PDF](https://anildewani.com/documents/resume-of-anil.pdf)
-
 #### RSS Feeds I Follow: [Download OPML File](https://anildewani.com/feeds.opml)
 
 ## My Complete Tech Stack:
 
-I'm well versed with multiple technology frameworks spanning across multiple domains. A jack of all the trades kinda guy! Below is my attempt to list down all the tech stack I can start working/tinkering instantly! Ping me with your interesting ideas and lets see if we can flow together ;)
+I'm well versed with multiple technology frameworks spanning across multiple domains. Below is my attempt to list down all the tech stack I can start working/tinkering instantly! 
 
 #### - Web Development
 
@@ -154,6 +151,3 @@ I'm well versed with multiple technology frameworks spanning across multiple dom
 - [SciURLS](https://sciurls.com/) - Aggregator site for all popular Scientific Research sources
 - [FinURLS](https://finurls.com/) - Aggregator site for all popular Financial Management sources
 
-
-### Like my contributions?
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/anildewani)
