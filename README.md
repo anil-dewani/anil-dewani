@@ -4,8 +4,6 @@
 
 I'm an tech-enthusiast with a sound grip on very diverse set of technical toolsets which help me manifest ideas into functional and reliable tech systems.
 
-In my free time, I try to give back to the world by releasing open-source projects.
-
 
 - 🤖 &nbsp; I’m currently learning **Machine Learning & Natural Language Processing**. 
 - 🌈 &nbsp; I totally admire **GNU/Linux** and **FOSS** Softwares <br>
