@@ -28,8 +28,6 @@ In my free time, I try to give back to the world by releasing open-source projec
 
 #### GPG Encryption Key: [Public Key](https://anildewani.com/pgp.txt)
 
-#### RSS Feeds I Follow: [Download OPML File](https://anildewani.com/feeds.opml)
-
 ## My Complete Tech Stack:
 
 I'm well versed with multiple technology frameworks spanning across multiple domains. Below is my attempt to list down all the tech stack I can start working/tinkering instantly! 
