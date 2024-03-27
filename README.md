@@ -27,9 +27,34 @@ I'm an tech-enthusiast with a sound grip on very diverse set of technical toolse
 
 - [Top Ways to Secure Linux Servers](https://anildewani.com/blog/ways-to-secure-linux-server/)
 - [My Personal Code Development Philosophy](https://anildewani.com/blog/my-coding-philosophy/)
+- [Enhancing Developer Experience(DX) and DevOps Stratergies in web-development](https://anildewani.com/blog/enhancing-development-experience/)
+
+
+## My Daily Reads:
+
+- [Hacker News](https://news.ycombinator.com/) - Top Trending Tech News of the day
+- [Product Hunt](https://www.producthunt.com/) - Top Trending Tech Products of the day
+- [Github Trends](https://github.com/trending/) - Daily, weekly and monthly trending repos on github
+- [Lobsters](https://lobste.rs/) - To Find Geekish articles catching eyes of the nerds!
+- [TechontheEdge](https://www.techontheedge.com/) - Staying updated with everything related to A.I, M.L and N.L.P
+- [Volv News](https://volvmedia.com/) - Quickly scroll through international top news
+- [TechURLS](https://techurls.com/) - Aggregator site for all popular tech news sources
+- [TuxURLS](https://tuxurls.com/) - Aggregator site for all popular Linux news sources
+- [DevURLS](https://devurls.com/) - Aggregator site for all popular Developer news sources
+- [SciURLS](https://sciurls.com/) - Aggregator site for all popular Scientific Research sources
+- [FinURLS](https://finurls.com/) - Aggregator site for all popular Financial Management sources
 
 
 #### GPG Encryption Key: [Public Key](https://anildewani.com/pgp.txt)
+
+  
+### Connect with me:
+
+[![Email](https://i.imgur.com/LvzAalc.png)](mail:anildewani4u@gmail.com)
+[![Linkedin](https://i.imgur.com/O8ONzW7.png)](https://www.linkedin.com/in/anil-d-15729a1b9/)
+[![Telegram](https://i.imgur.com/6TcSeAY.png)](http://t.me/solutioncoder)
+[![Instagram](https://i.imgur.com/MxH4Zfp.png)](http://instagram.com/madbytes)
+
 
 ## My Complete Tech Stack:
 
@@ -127,27 +152,4 @@ I'm well versed with multiple technology frameworks spanning across multiple dom
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![Dependabot](https://img.shields.io/badge/dependabot-025E8C?style=for-the-badge&logo=dependabot&logoColor=white)
 
-
-  
-### Connect with me:
-
-[![Email](https://i.imgur.com/LvzAalc.png)](mail:anildewani4u@gmail.com)
-[![Linkedin](https://i.imgur.com/O8ONzW7.png)](https://www.linkedin.com/in/anil-d-15729a1b9/)
-[![Telegram](https://i.imgur.com/6TcSeAY.png)](http://t.me/solutioncoder)
-[![Instagram](https://i.imgur.com/MxH4Zfp.png)](http://instagram.com/madbytes)
-
-
-## My Daily Reads:
-
-- [Hacker News](https://news.ycombinator.com/) - Top Trending Tech News of the day
-- [Product Hunt](https://www.producthunt.com/) - Top Trending Tech Products of the day
-- [Github Trends](https://github.com/trending/) - Daily, weekly and monthly trending repos on github
-- [Lobsters](https://lobste.rs/) - To Find Geekish articles catching eyes of the nerds!
-- [TechontheEdge](https://www.techontheedge.com/) - Staying updated with everything related to A.I, M.L and N.L.P
-- [Volv News](https://volvmedia.com/) - Quickly scroll through international top news
-- [TechURLS](https://techurls.com/) - Aggregator site for all popular tech news sources
-- [TuxURLS](https://tuxurls.com/) - Aggregator site for all popular Linux news sources
-- [DevURLS](https://devurls.com/) - Aggregator site for all popular Developer news sources
-- [SciURLS](https://sciurls.com/) - Aggregator site for all popular Scientific Research sources
-- [FinURLS](https://finurls.com/) - Aggregator site for all popular Financial Management sources
 
