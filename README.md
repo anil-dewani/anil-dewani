@@ -10,6 +10,7 @@ I'm an tech-enthusiast with a sound grip on very diverse set of technical toolse
 - 📢 &nbsp; Ask me anything about **DevOps**, **web development** & **Linux**. <br>
 - ⚡️ &nbsp; Read more about my projects at **[anildewani.com](https://anildewani.com/)**
 
+<br/>
 
 ## Open Source Projects:
 
@@ -22,6 +23,7 @@ I'm an tech-enthusiast with a sound grip on very diverse set of technical toolse
 - [OSX-Locker](https://github.com/anil-dewani/osx-locker) - This utility changes password of your current osx user to a random password and notifies you of the new password automatically on the next working day. You will not have access to the newly set password until next working day arrives. It locks you out of your own system to enhance your work-life balance commitments.
 - [Ideas-Manager](https://github.com/anil-dewani/Ideas-Management) - Flutter based mobile application to quickly add new ideas to a cloud database and shift ideas into meaningful modes of operations to better manage them.
 
+<br/>
 
 ### Latest blog posts:
 
@@ -29,6 +31,7 @@ I'm an tech-enthusiast with a sound grip on very diverse set of technical toolse
 - [My Personal Code Development Philosophy](https://anildewani.com/blog/my-coding-philosophy/)
 - [Enhancing Developer Experience(DX) and DevOps Stratergies in web-development](https://anildewani.com/blog/enhancing-development-experience/)
 
+<br/>
 
 ## My Daily Reads:
 
@@ -45,16 +48,17 @@ I'm an tech-enthusiast with a sound grip on very diverse set of technical toolse
 - [FinURLS](https://finurls.com/) - Aggregator site for all popular Financial Management sources
 
 
-#### GPG Encryption Key: [Public Key](https://anildewani.com/pgp.txt)
 
-  
+<br/> 
+
 ### Connect with me:
 
-[![Email](https://i.imgur.com/LvzAalc.png)](mail:anildewani4u@gmail.com)
-[![Linkedin](https://i.imgur.com/O8ONzW7.png)](https://www.linkedin.com/in/anil-d-15729a1b9/)
-[![Telegram](https://i.imgur.com/6TcSeAY.png)](http://t.me/solutioncoder)
-[![Instagram](https://i.imgur.com/MxH4Zfp.png)](http://instagram.com/madbytes)
+[![Linkedin](https://i.imgur.com/sR6UP70.png)](https://www.linkedin.com/in/anil-d-15729a1b9/)
+[![Twitter](https://i.imgur.com/Iqumvca.png)](https://twitter.com/anil__dewani)
+[![Youtube](https://i.imgur.com/Wuxf92u.png)](https://www.youtube.com/channel/UCdgXC7dgpkkZlZkYfYyuwdQ)
 
+
+<br/>
 
 ## My Complete Tech Stack:
 
