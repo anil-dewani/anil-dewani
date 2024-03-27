@@ -16,6 +16,12 @@ I'm an tech-enthusiast with a sound grip on very diverse set of technical toolse
 - [Firefly Import Helpers](https://github.com/anil-dewani/firefly-import-helper) - An extended transactions importer for the [Firefly III](https://www.firefly-iii.org/) Personal Finance manager software. Dedicated modules for top banks of india, to import bank account and credit card transactions.
 - [Unix Server Backup](https://github.com/anil-dewani/unix-server-backup) - An python script focused on doing a detailed daily snapchat of linux servers and automatically uploading them to s3 enabled storage servers. 
 - [AnilDewani.com](https://github.com/anil-dewani/personal-website) - Personal website coded using the JAMStack Approach using hugo framework, deployed using cloudflare workers on their worldwide CDN for lowest latency and fastest cache.
+- [SMS Transaction Parser](https://github.com/anil-dewani/sms-transaction-parser) -  FastAPI powered API codebase which accepts SMS messages as an input, auto-detects if a particular message is transactional in nature or not, and then parses out all the transactional meta-data and forwards it to Finance Management Systems.
+- [dotfiles](https://github.com/anil-dewani/dotfiles) - A central hub for all of my configuration files which i've tweaked to enhance my DX (Developer Experience). Comes with an install.sh script which can be used to initialise all of new systems or existing systems to adhere to the configurations automatically.
+- [Jira Dashboard](https://github.com/anil-dewani/jira-dashboard) - A bird-eye view dashboard which connects via API to your JIRA account and parses tickets assigned to you to guage your upcoming work-load to better plan your commitments.
+- [OSX-Locker](https://github.com/anil-dewani/osx-locker) - This utility changes password of your current osx user to a random password and notifies you of the new password automatically on the next working day. You will not have access to the newly set password until next working day arrives. It locks you out of your own system to enhance your work-life balance commitments.
+- [Ideas-Manager](https://github.com/anil-dewani/Ideas-Management) - Flutter based mobile application to quickly add new ideas to a cloud database and shift ideas into meaningful modes of operations to better manage them.
+
 
 ### Latest blog posts:
 
