@@ -15,7 +15,6 @@ I'm an tech-enthusiast with a sound grip on very diverse set of technical toolse
 
 - [Firefly Import Helpers](https://github.com/anil-dewani/firefly-import-helper) - An extended transactions importer for the [Firefly III](https://www.firefly-iii.org/) Personal Finance manager software. Dedicated modules for top banks of india, to import bank account and credit card transactions.
 - [Unix Server Backup](https://github.com/anil-dewani/unix-server-backup) - An python script focused on doing a detailed daily snapchat of linux servers and automatically uploading them to s3 enabled storage servers. 
-- [SSH Monitoring Web UI](https://github.com/anil-dewani/ssh-logging-web-ui) - Django based web UI application which lists down all the attempts made to login to your server via SSH. Useful to do security audits and blocking out crawler bots doing bruteforce attacks on the server. 
 - [AnilDewani.com](https://github.com/anil-dewani/personal-website) - Personal website coded using the JAMStack Approach using hugo framework, deployed using cloudflare workers on their worldwide CDN for lowest latency and fastest cache.
 
 ### Latest blog posts:
