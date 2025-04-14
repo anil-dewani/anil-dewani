@@ -14,22 +14,17 @@ I'm an tech-enthusiast with a sound grip on very diverse set of technical toolse
 
 ## Open Source Projects:
 
-- [Firefly Import Helpers](https://github.com/anil-dewani/firefly-import-helper) - An extended transactions importer for the [Firefly III](https://www.firefly-iii.org/) Personal Finance manager software. Dedicated modules for top banks of india, to import bank account and credit card transactions.
 - [Unix Server Backup](https://github.com/anil-dewani/unix-server-backup) - An python script focused on doing a detailed daily snapchat of linux servers and automatically uploading them to s3 enabled storage servers. 
 - [AnilDewani.com](https://github.com/anil-dewani/personal-website) - Personal website coded using the JAMStack Approach using hugo framework, deployed using cloudflare workers on their worldwide CDN for lowest latency and fastest cache.
-- [SMS Transaction Parser](https://github.com/anil-dewani/sms-transaction-parser) -  FastAPI powered API codebase which accepts SMS messages as an input, auto-detects if a particular message is transactional in nature or not, and then parses out all the transactional meta-data and forwards it to Finance Management Systems.
 - [dotfiles](https://github.com/anil-dewani/dotfiles) - A central hub for all of my configuration files which i've tweaked to enhance my DX (Developer Experience). Comes with an install.sh script which can be used to initialise all of new systems or existing systems to adhere to the configurations automatically.
 - [Jira Dashboard](https://github.com/anil-dewani/jira-dashboard) - A bird-eye view dashboard which connects via API to your JIRA account and parses tickets assigned to you to guage your upcoming work-load to better plan your commitments.
 - [OSX-Locker](https://github.com/anil-dewani/osx-locker) - This utility changes password of your current osx user to a random password and notifies you of the new password automatically on the next working day. You will not have access to the newly set password until next working day arrives. It locks you out of your own system to enhance your work-life balance commitments.
-- [Ideas-Manager](https://github.com/anil-dewani/Ideas-Management) - Flutter based mobile application to quickly add new ideas to a cloud database and shift ideas into meaningful modes of operations to better manage them.
 
 <br/>
 
 ### Latest blog posts:
 
-- [Top Ways to Secure Linux Servers](https://anildewani.com/blog/ways-to-secure-linux-server/)
 - [My Personal Code Development Philosophy](https://anildewani.com/blog/my-coding-philosophy/)
-- [Enhancing Developer Experience(DX) and DevOps Stratergies in web-development](https://anildewani.com/blog/enhancing-development-experience/)
 
 <br/>
 
@@ -59,7 +54,7 @@ I'm an tech-enthusiast with a sound grip on very diverse set of technical toolse
 
 
 <br/>
-
+<!--
 ## My Complete Tech Stack:
 
 I'm well versed with multiple technology frameworks spanning across multiple domains. Below is my attempt to list down all the tech stack I can start working/tinkering instantly! 
@@ -185,4 +180,4 @@ I'm well versed with multiple technology frameworks spanning across multiple dom
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![Dependabot](https://img.shields.io/badge/dependabot-025E8C?style=for-the-badge&logo=dependabot&logoColor=white)
 
-
+-->
